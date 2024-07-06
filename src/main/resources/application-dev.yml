@@ -4,6 +4,15 @@ spring:
     username: marcos
     password: 1234
     
+            
+  springdoc:
+    api-docs:
+       path: /v3/api-docs
+    swagger-ui:
+       path: /swagger-ui.html
+
+      
+    
   jpa:
     show-sql: true
     open-in-view: false
@@ -20,5 +29,5 @@ spring:
       settings:
         trace: false
         web-allow-others: false
-      
+
    

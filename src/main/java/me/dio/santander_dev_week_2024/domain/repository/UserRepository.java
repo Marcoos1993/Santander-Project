@@ -1,4 +1,4 @@
-package domain.repository;
+package me.dio.santander_dev_week_2024.domain.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
